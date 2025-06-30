@@ -12,6 +12,4 @@ Bellow are some examples of projects I have worked on;
 
 ![](images/future Space Shooter Code.png)
 
-
-
 ![](images/future Parkour.png)
