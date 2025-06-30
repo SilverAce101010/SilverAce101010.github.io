@@ -7,3 +7,10 @@ Over the years, my early fascination has evolved into a dedicated pursuit. I’v
 Game development, for me, is the perfect blend of art and logic. Whether I'm debugging a tricky system, or designing the feel of a game mechanic, I approach every challenge with curiosity. I believe in building things that are both memorable, and meaningful for players.
 
 Bellow are some examples of projects I have worked on;
+
+![](images/future Space Shooter.png)
+![](images/future Space Shooter Code.png)
+
+
+
+![](images/future Parkour.png)
