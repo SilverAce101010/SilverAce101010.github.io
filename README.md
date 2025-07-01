@@ -8,8 +8,8 @@ Game development, for me, is the perfect blend of art and logic. Whether I'm deb
 
 Bellow are some examples of projects I have worked on;
 
-![](images/future Space Shooter.png)
+![](images/Screenshot Space Shooter.png)
 
-![](images/future Space Shooter Code.png)
+![](images/Screenshot Space Shooter Code.png)
 
-![](images/future Parkour.png)
+![](images/Screenshot Parkour.png)
